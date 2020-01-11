@@ -1,0 +1,10 @@
+<map
+id="myMap"
+style="width: 100%; height: {{height}}px;"
+longitude="{{longitude}}" latitude="{{latitude}}"
+scale='16'
+polyline="{{polyline}}"
+show-location
+markers="{{markers}}"
+>
+</map>

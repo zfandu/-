@@ -1,0 +1,8 @@
+<!--logs.wxml-->
+<view>
+  <view class="title">{{title}}</view>
+  <text>{{address}}</text>
+  <text class="distance">距离：{{distance}}</text>
+</view>
+<button bindtap="goshit">💪 前往拉屎 </button>
+
